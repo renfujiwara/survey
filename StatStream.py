@@ -13,3 +13,4 @@ def DFT(s,b,w,k)
   crr_digest = 0
   retyrn crr_digest
   
+
